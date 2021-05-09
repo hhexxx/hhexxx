@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is hhexxx and I am a young student that is pursuing a career in software development!
+My name is hhexxx and I am a young 15 year old student that is pursuing a career in software development!
 <br>
 <br>
 
